@@ -12,6 +12,15 @@
 
 Built with **Python** and **Streamlit**, this application automates the **RFM (Recency, Frequency, Monetary)** analysis process, allowing businesses to segment their customer base dynamically and identify "Champions", "Loyal Customers", and those "At Risk" of churning.
 
+## ⚡ Development Velocity (The "Why")
+
+In traditional setups, implementing an interactive RFM dashboard with dynamic weighting usually requires:
+1.  Data Engineering teams to build pipelines.
+2.  BI Analysts to visualize in Tableau/PowerBI (4-8 weeks).
+
+**This Project's Approach:**
+Adopting a **"Vibecoding" (AI-First)** methodology, this full-stack application was prototyped, debugged, and deployed in **under 48 hours**. It demonstrates how a **Technical Growth Engineer** can bypass technical bottlenecks to deliver immediate business value (Customer Segmentation & Churn Analysis) without waiting for heavy IT resources.
+
 ## **🌟 Key Features**
 
 * **Dynamic Weighting Strategy:** Unlike static RFM tools, this engine allows users to adjust the importance of Recency, Frequency, and Monetary value (0-10 scale) to fit specific business models (e.g., High-ticket vs. FMCG).  
