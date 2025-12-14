@@ -1,6 +1,10 @@
 # **📊 RFM Customer Segmentation Engine**
 
 > **🔴 View Live Demo:** [https://naserr.streamlit.app/](https://naserr.streamlit.app/)
+>
+> **📂 Sample Data:** Need data to test? Download these example files to see the required format:
+> * [📥 Light Dataset (150 Customers)](https://docs.google.com/spreadsheets/d/1V32ErgoApew1K0tsAmLcN-zd7620HLF6/edit?usp=sharing&ouid=100272768786723660326&rtpof=true&sd=true)
+> * [📥 Heavy Dataset (2400 Customers)](https://docs.google.com/spreadsheets/d/1V965kFkzBWaJU4odS51N4Zzre-p6XAvf/edit?usp=sharing&ouid=100272768786723660326&rtpof=true&sd=true)
 
 ## **🚀 Overview**
 
