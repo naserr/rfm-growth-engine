@@ -1,5 +1,7 @@
 # **📊 RFM Customer Segmentation Engine**
 
+> **🔴 View Live Demo:** [https://naserr.streamlit.app/](https://naserr.streamlit.app/)
+
 ## **🚀 Overview**
 
 **RFM Growth Engine** is a powerful, interactive analytics tool designed to transform raw customer transaction data into actionable marketing insights.
@@ -22,28 +24,20 @@ Built with **Python** and **Streamlit**, this application automates the **RFM (R
 * **Visualization:** Plotly Express  
 * **I/O:** OpenPyXL
 
-## **📸 Screenshots**
-
-*(Place a screenshot of your dashboard here)*
-
 ## **📦 How to Run Locally**
 
-1. **Clone the repository:**  
-   git clone \[https://github.com/naserr/rfm-growth-engine.git\](https://github.com/naserr/rfm-growth-engine.git)  
+1. **Clone the repository:** git clone [https://github.com/naserr/rfm-growth-engine.git](https://github.com/naserr/rfm-growth-engine.git)  
    cd rfm-growth-engine
 
-2. **Create a virtual environment (Optional but recommended):**  
-   python \-m venv .venv  
-   source .venv/bin/activate  \# On Windows: .venv\\Scripts\\activate
+2. **Create a virtual environment (Optional but recommended):** python -m venv .venv  
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
-3. **Install dependencies:**  
-   pip install \-r requirements.txt
+3. **Install dependencies:** pip install -r requirements.txt
 
-4. **Run the app:**  
-   streamlit run app.py
+4. **Run the app:** streamlit run app.py
 
 ## **🤝 Contributing**
 
-Contributions, issues, and feature requests are welcome\!
+Contributions, issues, and feature requests are welcome!
 
-*Built with ❤️ by [Naser Rahmani](https://www.google.com/search?q=https://github.com/naserr) | Technical Growth Engineer*
+*Built with ❤️ by [Naser Rahmani](https://github.com/naserr) | Technical Growth Engineer*
